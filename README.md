@@ -32,7 +32,7 @@ covid19-data-visualization/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/covid19-data-visualization.git
+    git clone https://github.com/Mededdahby/Covid-statics-chart.git
     ```
 
 2. Open the `index.html` file in a web browser.
